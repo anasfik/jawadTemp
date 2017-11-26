@@ -1,1 +1,1 @@
-document.write('anas fikhi')
+alert('anas fikhi')
